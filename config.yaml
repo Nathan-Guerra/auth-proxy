@@ -1,0 +1,13 @@
+hosts:
+  "app.devppay.com.br:9999":
+    auth:
+      endpoint: /api/auth/login9
+      key: access_token
+      user: "nathan123"
+      pass: "nathan321"
+  app.devppay.com.br:
+    auth:
+      endpoint: /api/auth/login3
+      key: access_token
+      user: "nathan123"
+      pass: "nathan321"

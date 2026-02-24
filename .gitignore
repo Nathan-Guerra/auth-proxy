@@ -1,0 +1,10 @@
+bin/
+dist/
+*.out
+coverage.out
+.env
+.vscode/
+.idea/
+.DS_Store
+
+config.yaml

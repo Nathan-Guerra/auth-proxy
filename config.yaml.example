@@ -1,0 +1,13 @@
+hosts:
+  localhost:
+    auth:
+      endpoint: /api/auth/login9
+      key: access_token
+      user: "nathan123"
+      pass: "nathan321"
+  "localhost:8888":
+    auth:
+      endpoint: /api/auth/login3
+      key: access_token
+      user: "using_port"
+      pass: "strongp@ssword"
