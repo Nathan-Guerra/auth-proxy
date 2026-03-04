@@ -7,7 +7,7 @@ hosts:
       pass: "nathan321"
   app.devppay.com.br:
     auth:
-      endpoint: /api/auth/login3
+      endpoint: /api/auth/login
       key: access_token
       user: "nathan123"
       pass: "nathan321"
